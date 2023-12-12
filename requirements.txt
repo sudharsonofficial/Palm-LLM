@@ -1,0 +1,6 @@
+langchain==0.0.349
+pinecone==0.1.0
+pinecone_client==2.2.4
+protobuf==4.25.1
+python-dotenv==1.0.0
+streamlit==1.29.0
