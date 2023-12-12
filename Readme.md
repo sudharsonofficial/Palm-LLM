@@ -2,6 +2,9 @@
 
 Welcome to Project X . This project seamlessly integrates LangChain and Google Palm 2 LLM to provide you with a unique and powerful chatbot experience.
 
+![Palm Logo](./palm_logo.jpg)
+
+
 ### Explore the Boundless Possibilities 🚀🌴
 
 ## 1. PDF Wizardry with LangChain 📚🔗
