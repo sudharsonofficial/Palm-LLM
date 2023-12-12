@@ -36,6 +36,7 @@ GOOGLE_API_KEY='Enter Your Palm Api Here' # You can create one from makersuite.g
 PINE='Enter Your Pine Cone Api Here' # You can create one from the official website of Pinecone pinecone.io
 ```
 
+
 In the Pincone.py file, Specify your index name from the pinecone website. Also mention your environment name:
 
 ```bash
